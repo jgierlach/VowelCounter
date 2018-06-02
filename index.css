@@ -1,0 +1,36 @@
+body {
+  background: linear-gradient(to right, #F9D423, #FF4E50);
+}
+
+.center {
+  text-align: center;
+  margin: 0 auto;
+}
+
+#text-box {
+  padding: 1em;
+  padding-left: 10em;
+  padding-right: 10em;
+  margin-top: 1em;
+}
+
+.top-header {
+  margin-top: 2em;
+}
+
+.margin-top {
+  margin-top: 2em;
+}
+
+#totalCount {
+  color: black;
+  font-size: 3em;
+}
+
+button {
+  font-size: 1em;
+  padding-left: 1em;
+  padding-right: 1em;
+  padding-top: .5em;
+  padding-bottom: .5em;
+}
